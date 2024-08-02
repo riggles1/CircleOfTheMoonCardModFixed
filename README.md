@@ -38,5 +38,5 @@ SoftlockBlockFix.ips A Tackle block in Machine Tower will cause a softlock if yo
 from the Abyss Stairway using the stone tower route with Kick Boots and not Double. 
 This is a small level edit that moves that block slightly, removing the potential for a softlock.
 
-Patches are taken from the randomizer git, credit to calm-palm for these:
+# Patches are taken from the randomizer git, credit to calm-palm for these:
 https://github.com/calm-palm/cotm-randomizer/tree/master/Program/ips
