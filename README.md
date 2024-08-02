@@ -2,8 +2,9 @@
 I created this git as some people had trouble applying the individual patches (probably related to order applied)
 Original Castlevania Circle of the Moon (USA).gba CRC32: 1cc059a4
 Patched file CRC32: a9e88e55
+Apply with the Beat patcher.
 
-This .bps patch has the Card Hack CardUpV3 combined with the following:
+This patch has the Card Hack CardUpV3 combined with the following:
 
 NoDSSDrops.ips This patch replaces enemy drops that included DSS cards. 
 (Restores the changed drops for potions and meat in the cardup hack, making them drop normally instead at an absurdly high rate).
