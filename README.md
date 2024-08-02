@@ -1,4 +1,4 @@
-# CircleOfTheMoonCardModFixed
+# Card Mod with fixed/normal drop rates and bugfixes.
 I created this git as some people had trouble applying the individual patches (probably related to order applied)
 Original Castlevania Circle of the Moon (USA).gba CRC32: 1cc059a4
 Patched file CRC32: a9e88e55
